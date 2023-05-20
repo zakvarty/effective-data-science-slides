@@ -6,9 +6,9 @@ date: ""
 editor: source
 format:
   revealjs:
-    theme: ../zv-slides-theme.scss #(default / dark / simple)
-    logo: assets/zv-logo-192x192.png
-    bibliography: ../refs.bib
+    theme: ../assets/zv-slides-theme.scss #(default / dark / simple)
+    logo: ../assets/zv-logo-192x192.png
+    bibliography: ../assets/refs.bib
     footer: "Effective Data Science: Workflows - Organising Your Work - Zak Varty"
     menu: true
     slide-number: true

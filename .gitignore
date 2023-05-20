@@ -1,12 +1,11 @@
-.Rproj
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-
 *.mov
 *.mp4
 *.html
 .Rdata
 .httr-oauth
 .DS_Store
+effective-data-science-slides.Rproj
